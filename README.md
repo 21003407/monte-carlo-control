@@ -37,8 +37,8 @@ Return the optimal Q-values, state-value function, and policy.
 ## MONTE CARLO CONTROL FUNCTION
 
 ```
-Name: Bairav Skandan Loha
-Reg no: 212221230010
+Name : A joans jay authers 
+Reg no: 212221240019
 ```
 
 ```python
